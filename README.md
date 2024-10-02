@@ -49,7 +49,7 @@ found 0 vulnerabilities
     30 Jun 23:43:44 - [info] Started flows
     30 Jun 23:43:44 - [info] Server now running at http://127.0.0.1:1880/red/
     ```
-5. Agora você já pode acessar a aplicação através do endereço `http://127.0.0.1:1880/red/` no seu navegador.
+5. Agora você já pode acessar a aplicação através do endereço `http://127.0.0.1:1880/` no seu navegador.
 
 ## Utilizando simulação no Wokwi
 
